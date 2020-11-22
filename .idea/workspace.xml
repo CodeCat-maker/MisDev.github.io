@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad4ee463-cd56-46cd-8a92-3e71fdb1a95b" name="Default Changelist" comment="" />
+    <list default="true" id="ad4ee463-cd56-46cd-8a92-3e71fdb1a95b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/aliyun.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/aliyun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/bishe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/bishe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/glzy.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/glzy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/jianshe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/jianshe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/qita.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/qita.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/tools.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/wechat.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/wechat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ect/wglzy.html" beforeDir="false" afterPath="$PROJECT_DIR$/ect/wglzy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +26,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kSbZfQY6zhQumkJ1ibTBvYjSyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -34,7 +52,7 @@
       <recent name="D:\kinds_project\web\bookguo\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.2018user.htm">
+  <component name="RunManager" selected="JavaScript Debug.bishe.html">
     <configuration name="2014user.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bookguo/ect/2014user.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -44,19 +62,19 @@
     <configuration name="2018user.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bookguo/ect/2018user.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bookguo/index.html" useBuiltInWebServerPort="true">
+    <configuration name="bishe.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bookguo/ect/bishe.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="wglzy.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bookguo/ect/wglzy.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bookguo/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.bishe.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.2018user.htm" />
         <item itemvalue="JavaScript Debug.2015user.htm" />
         <item itemvalue="JavaScript Debug.2014user.htm" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.wglzy.html" />
       </list>
     </recent_temporary>
   </component>
@@ -74,6 +92,7 @@
       <workItem from="1605884372585" duration="3205000" />
       <workItem from="1605888141997" duration="148000" />
       <workItem from="1605962812625" duration="32000" />
+      <workItem from="1606050160099" duration="303000" />
     </task>
     <servers />
   </component>
